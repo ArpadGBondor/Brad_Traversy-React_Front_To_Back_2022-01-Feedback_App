@@ -11,7 +11,7 @@
 
 ## Deployed
 
--   Not deployed yet
+-   [On Netlify](https://gabriels-react-front-to-back-04-feedback-app.netlify.app/)
 
 ## Used Tools:
 
